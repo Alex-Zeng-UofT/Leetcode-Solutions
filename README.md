@@ -8,3 +8,5 @@
 🟡 **#209** &ensp; Minimum Size Subarray Sum <br />
 🟡 **#200** &ensp; Number of Islands - 04/25/23<br />
 🟡 **#547** &ensp; Number of Provinces <br />
+🟡 **#117** &ensp;&nbsp; Populating Next Pointers in Each Node II - 04/26/23<br />
+🟢 **#572** &ensp; Subtree of Another Tree <br />
