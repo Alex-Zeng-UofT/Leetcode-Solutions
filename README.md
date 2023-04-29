@@ -15,3 +15,6 @@
 🟡 **#797** &ensp; All Paths From Source to Target <br />
 🟡 **#78** &emsp; Subsets - 04/28/23<br />
 🟡 **#90** &emsp; Subsets II <br />
+🟡 **#47** &emsp; Permutations II - 04/29/23<br />
+🟡 **#39** &emsp; Combination Sum <br />
+🟡 **#40** &emsp; Combination Sum II <br />
