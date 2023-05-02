@@ -21,3 +21,5 @@
 🟡 **#17** &emsp;&nbsp; Letter Combinations of a Phone Number - 04/30/23<br />
 🟡 **#22** &emsp; Generate Parentheses <br />
 🟡 **#79** &emsp; Word Search <br />
+🟡 **#213** &ensp; House Robber II - 05/01/23<br />
+🟡 **#55** &emsp; Jump Game <br />
