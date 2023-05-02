@@ -18,3 +18,6 @@
 🟡 **#47** &emsp; Permutations II - 04/29/23<br />
 🟡 **#39** &emsp; Combination Sum <br />
 🟡 **#40** &emsp; Combination Sum II <br />
+🟡 **#17** &emsp;&nbsp; Letter Combinations of a Phone Number - 04/30/23<br />
+🟡 **#22** &emsp; Generate Parentheses <br />
+🟡 **#79** &emsp; Word Search <br />
