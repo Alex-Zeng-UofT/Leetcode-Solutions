@@ -23,3 +23,6 @@
 🟡 **#79** &emsp; Word Search <br />
 🟡 **#213** &ensp; House Robber II - 05/01/23<br />
 🟡 **#55** &emsp; Jump Game <br />
+🟡 **#45** &emsp; Jump Game II - 05/01/23<br />
+🟡 **#62** &emsp; Unique Paths <br />
+🟡
