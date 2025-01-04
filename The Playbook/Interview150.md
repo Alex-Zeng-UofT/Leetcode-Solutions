@@ -2,7 +2,7 @@
 
 **Chapters**
 
-1. [Array/String](#array/string)
+1. [Array/String](#arraystring)
 
 
 ## Array/String
