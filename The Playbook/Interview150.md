@@ -1,8 +1,13 @@
 # Leetcode Interview 150 Strategy
 
+**Chapters**
+
+1. [Array/String](#array/string)
+
+
 ## Array/String
 
-### Merge Sorted Array
+### Merge Sorted Array (EASY)
 
 > Take advantage of the fact that both given array ares already sorted, so we can use a two pointer approach to compare indices and merge.
 > This can be done in reverse order to allow for modification in place since nums1 contains '0' paddings in the end.
