@@ -69,3 +69,28 @@ def removeElement(self, nums: List[int], val: int) -> int:
 
     return pos
 ```
+
+### Remove Duplicates from Sorted Array (EASY)
+
+> Take advantage of sorted array, all duplicates of an element must be in a continuous sequence in nature. Thus, we just need to keep the first occurence and discard the remaining repeaters. Use a two pointer approach, one for iterating and one for keeping track of positions of subarray not containing duplicate. Discard the elements that are the same as the previous element.
+
+- **Time Complexity**: O(N)
+- **Space Complexity**: O(1)
+
+```python
+def removeDuplicates(self, nums: List[int]) -> int:
+    
+    prev = nums[0]
+    count = 1
+
+    for num in nums:
+
+        if num == prev:
+            continue
+
+        nums[count] = num
+        count += 1
+        prev = num
+
+    return count
+```
