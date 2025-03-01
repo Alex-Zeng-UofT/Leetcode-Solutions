@@ -21,5 +21,3 @@ class Solution:
 
         return ret
                 
-
-        return ret
